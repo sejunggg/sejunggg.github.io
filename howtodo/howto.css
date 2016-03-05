@@ -1,5 +1,5 @@
 /* CSS Document */
-p{font-size:150}
+#one{font-size:110px;}
 
 body{ font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 background-color:
@@ -8,13 +8,13 @@ background: -webkit-linear-gradient(to left, #C9FFBF , #FFAFBD); /* Chrome 10-25
 background: linear-gradient(to left, #C9FFBF , #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
 text-align:center;
 border:double;
-border:#F4EF83        }
+border:#F4EF83;        }
 
 
 h1{
 color:#513303;
-	font-size:100;
-	text-align:center}
+	font-size:110px;
+	text-align:center;}
 
 		
 		
@@ -25,6 +25,7 @@ color:#513303;
  font-weight: bold;
 
  font-style:normal}
+ h2{font-size:110px;}
 ul{ text-align:center;
 color:#262C4F;
 }
