@@ -1,0 +1,52 @@
+/* CSS Document */
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+h1{font-size:100px;
+color:#3CC;}
+body{font-family: 'Slabo 27px', serif;
+text-align:center;
+
+
+background: #2BC0E4; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #2BC0E4 , #EAECC6); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #2BC0E4 , #EAECC6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        ;}
+#modes{color:#FFF;
+font-size:40px;
+}
+h2{color:#FF0;}
+h2{color:rgb(204,153,153);}
+
+#theory{color:rgb(51,204,102);
+font-size:60px;}
+h2{color:#FFFFFF;
+font-size:40px;}
+h3{color:rgb(255,153,153);font-size:40px;}
+h3{color:rgb(204,255,153);font-size:40px;}
+h3{color:rgb(204,255,255);font-size:40px;}
+
+
+
+
+#models
+h2{color:#699;
+font-size:100px;}
+h3.one{color:rgb(255,204,153);}
+h3.two{color:rgb(153,153,51);}
+h3.three{color:rgb(51,102,102);}
+h3.four{color:#CCF;}
+
+#psychology
+h2{color:#CC6;
+font-size:90px;}
+h3.red{color:#F03;}
+h3.orage{color:#F90;}
+h3.yellow{color:#FF0;}
+h3.green{color:#093;}
+h3.blue{color:#36C;}
+h3.violet{color:#606;}
+h3.black{color:#003;}
+h3.white{color:#FFF;}
+
+footer{color:rgb(204,153,51);font-size:30px;}
+/* CSS Document */
+

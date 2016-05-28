@@ -1,0 +1,18 @@
+/* CSS Document */
+
+
+body{
+background: #2BC0E4; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #2BC0E4 , #EAECC6); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #2BC0E4 , #EAECC6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        ;text-align:center;
+		 font-size: 30px;
+		 font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif, cursive;padding-left:100px; padding-right:100px;
+		margin-left:50px;margin-right:50px;margin-bottom:200px;
+		}
+	
+		h1{font-size:60px;}
+		h2{font-size:30px;
+		font-weight:400px;}
+		
+		

@@ -1,0 +1,36 @@
+/* CSS Document */
+
+body {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	backfround-color:#333}
+	
+	
+	
+	p{color:#F3F4A0;
+		
+		text-align: center;
+		
+		
+		
+	
+			
+		
+			
+			
+			color:#F3F4A0;
+			text-align: center;
+ font-size: 50px;
+
+ font-weight: bold;
+
+ font-style:normal}
+		
+			nav {color:#FFF;
+			font-size:36px;
+			text-align:center}
+
+img {
+	display: block;
+	width: 700px;
+	margin: 0 auto;
+	}

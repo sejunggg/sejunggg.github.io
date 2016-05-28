@@ -1,0 +1,104 @@
+/* CSS Document */
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+/* helper style */
+.col{
+	background:#CCC;
+	box-sizing: border-box;
+	padding-left:20px;
+		margin-left:50px;}
+	
+	/* main styles */
+	#logo{padding-left:100px; padding-right:100px;
+		margin-left:50px;margin-right:50px;}
+
+	body{text-align:center;
+		 font-size: 20px;
+		 font-family: 'Indie Flower', cursive;padding-left:100px; padding-right:100px;
+		margin-left:50px;margin-right:50px;margin-bottom:200px;
+		}
+	
+		h1{font-size:50px;}
+		h2{font-size:30px;
+		font-weight:400px;
+		
+		}
+		
+	header{height: 6em; 
+	text-align: center;
+	padding: 2em;
+	background:#ddd;
+	margin-bottom: .5em;		
+		}
+		
+		#container {	align-content:center;text-align: center;
+	
+			width: 100%;
+		margin: 0 auto;
+			
+			}
+			
+		nav{ margin-bottom: .5em;	
+		text-align:center;}
+		
+		nav .col{background:none; 
+		border: 1px solid #555;
+	
+		box-sizing: border-box;
+		padding:  .5em;
+			padding-left:100px; margin-right:50px;}
+		#banner { height: auto;
+		margin-bottom: .5em;
+		background: #ddd;}
+		
+		#banner img {max-width:100%; }
+		iframe{float:center;}
+	
+		address{padding-left:100px; margin-right:50px;
+		}
+		
+		
+		iframe {padding-left:100px; padding-right:100px;margin-top:100px;
+		margin-left:50px;margin-right:50px;margin-bottom:200px;
+		}
+		
+		/*type styles*/
+		
+		#main .col {
+			align-content:center;
+			height: 6em;}
+		
+		h1{   font-size: 3em; /*3*16=48px */
+		      font-weight: 100;
+		      letter-spacing: 2px;
+			  text-transform: uppercase;
+			  margin-bottom: .5em; 
+		
+		}
+		
+		
+		header h2{font-size: 1.5em;
+		text-transform: uppercase;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;  }
+		
+		h2{font-size: 2em;}
+		
+		p{line-height:  1.2em;
+		margin-bottom: 1em;}
+
+ul{ list-style-type:none;}
+
+li{
+	
+	padding-bottom: 1em;
+	
+	border-bottom: 2px solid #fff;}		
+		
+		
+		a:link {color:#706A6A;}
+		
+		a:visited {color:#706A6A;}
+		
+		a:hover {color: #706A6A;}
+		
+		a:active {color:#706A6A;}
